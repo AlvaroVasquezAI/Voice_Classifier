@@ -1,5 +1,5 @@
 # Is this your voice?
-## VOice Classifier 
+## Voice Classifier 
 
 **Is this your voice?** is a Python application designed to classify voice recordings using machine learning models (K-Nearest Neighbors and Support Vector Machine). It includes a graphical interface built with `customtkinter` for training, evaluating, and classifying audio data using various acoustic descriptors.
 

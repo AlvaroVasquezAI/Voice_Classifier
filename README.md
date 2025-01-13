@@ -217,6 +217,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Acknowledgments
 - **Libraries**: `numpy`, `librosa`, `customtkinter`, `sounddevice`, `pillow`, `pandas`, `matplotlib`, `scikit-learn`, `soundfile`. 
-- **Tools**: Python, Tkinter, Machine Learning.
+- **Tools**: Python, CustomTkinter, Machine Learning, SVM, KNN.
 - Special thanks to everyone who supports this project!
 

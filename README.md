@@ -69,17 +69,17 @@ Here, you can choose three options: Visualize data, Training or Classification.
 
 ### Support Vector Machine (SVM) Section
 1. To start training using the SVM model, press the button:
-![SVM button section](resources/app/trainingsvmn1.png)
+![SVM button section](resources/app/trainingsvm1.png)
 2. The KNN menu will be displayed, where there are some sections like parameters, features, action buttons and results. 
-![SVM section](resources/app/trainingsvmn2.png)
+![SVM section](resources/app/trainingsvm2.png)
 3. Select the parameters and features you want your model to have.
-![SVM pretraining](resources/app/trainingsvmn3.png)
+![SVM pretraining](resources/app/trainingsvm3.png)
 4. Now, press the button "Train" and it will appear a message like this:
-![SVM training message](resources/app/trainingsvmn4.png)
+![SVM training message](resources/app/trainingsvm4.png)
 5. Once your model has been trained, then the results will be shown:
-![SVM results](resources/app/trainingsvmn5.png)
+![SVM results](resources/app/trainingsvm5.png)
 6. You can save the trained model by pressing the "Save" button
-![SVM saving model](resources/app/trainingsvmn6.png)
+![SVM saving model](resources/app/trainingsvm6.png)
 
 ## Classification Section
 1. Press the image:

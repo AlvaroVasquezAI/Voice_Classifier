@@ -1,0 +1,9 @@
+numpy
+librosa
+customtkinter
+sounddevice
+pillow
+pandas
+matplotlib
+scikit-learn
+soundfile

@@ -566,8 +566,8 @@ class VoiceApp(ctk.CTk):
                 column_width = canvas_width // num_columns
                 image_size = int(column_width * 0.8)
 
-                train_counts = pd.Series(self.knn.y_train).value_counts()
-                test_counts = pd.Series(self.knn.y_test).value_counts()
+                train_counts = pd.Series(self.svm.y_train).value_counts()
+                test_counts = pd.Series(self.svm.y_test).value_counts()
 
                 all_classes = sorted(set(train_counts.index) | set(test_counts.index))
                 data = {
